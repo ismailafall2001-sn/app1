@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: app2
+=======
+name: app1
+>>>>>>> c83ffe5d00f6fb7b89f2adfa194c039aa44cbe87
 description: A sample command-line application.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
@@ -8,6 +12,10 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
+<<<<<<< HEAD
+=======
+  http: ^1.6.0
+>>>>>>> c83ffe5d00f6fb7b89f2adfa194c039aa44cbe87
   # path: ^1.8.0
 
 dev_dependencies:

@@ -1,6 +1,6 @@
 // Import de la classe CompteUtilisateur depuis le package app2
 // Cette classe représente un utilisateur du système
-import 'package:app2/compte_utilisateur.dart';
+import "package:app2/compte_utilisateur.dart";
 
 void main() {
   // Création du premier objet CompteUtilisateur
